@@ -1,0 +1,49 @@
+文件夹 PATH 列表
+卷序列号为 0000000B D4E7:2150
+E:.
+│  preprocess_test.py
+│  run_diff.sh
+│  stru.txt
+│  
+├─core
+│  │  environment.txt
+│  │  environment.yml
+│  │  face_features.py
+│  │  logger.py
+│  │  metrics.py
+│  │  wandb_logger.py
+│  │  
+│  └─__pycache__
+│         
+├─guided_diffusion
+│  │  dist_util.py
+│  │  fp16_util.py
+│  │  gaussian_diffusion.py
+│  │  image_datasets.py
+│  │  logger.py
+│  │  losses.py
+│  │  nn.py
+│  │  resample.py
+│  │  respace.py
+│  │  script_util.py
+│  │  test_diff.py
+│  │  train_util.py
+│  │  unet.py
+│  │  valdata.py
+│  │  __init__.py
+│  │  
+│  └─__pycache__
+│                   
+└─scripts
+    │  T2V_test.py
+    │  T2V_train.py
+    │  
+    ├─.ipynb_checkpoints
+    │      T2V_train-checkpoint.py
+    │      
+    └─__pycache__
+            valdata.cpython-310.pyc
+            valdata.cpython-36.pyc
+            valdata.cpython-37.pyc
+            valdata.cpython-39.pyc
+            
